@@ -1,0 +1,1 @@
+Water quality trend monitor is an ESP32 learning project using 3. 3 V-safe analog turbidity module; 3. 3 V-safe analog pH interface. It measures turbidity sensor signal and publishes validated telemetry over Wi-Fi and TLS MQTT for water science learners. Includes wiring, setup, calibration, sensor checks, provisioning, safety notes, field guidance.
